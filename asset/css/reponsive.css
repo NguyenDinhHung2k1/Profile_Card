@@ -1,0 +1,16 @@
+@media (max-width: 740px) {
+
+    body {
+        display: block !important;
+    }
+
+    .card {
+        margin: 40px auto !important;
+        display: block;
+    }
+
+    .Contact_me {
+        width: 80%;
+    }
+
+ }
